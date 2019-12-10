@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAQA,AACC,MADK,CACL,EAAE,CAAC;EARF,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,cAAc,EAMG,GAAG;CAErB;;AAGD,AAAA,KAAK,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,cAAc,EAAE,GAAG;EACnB,SAAS,EAAE,IAAI;CAChB;;AAED,AAAA,OAAO,CAAC;EACJ,MAAM,EAAE,IAAI;CACb",
+    "sources": [
+        "AppUpdate.scss"
+    ],
+    "names": [],
+    "file": "AppUpdate.css"
+}

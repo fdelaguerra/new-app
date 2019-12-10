@@ -1,0 +1,23 @@
+@mixin flexCtr($direction) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: $direction;
+}
+
+
+header {
+ li {
+  @include flexCtr(row);
+  
+}
+}
+
+.flex {
+  @include flexCtr(row);
+}
+
+.select {
+    margin: auto;
+  }
+  
